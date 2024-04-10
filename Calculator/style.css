@@ -1,0 +1,14 @@
+
+.mt-3, .my-3 {
+    /* margin-top: 1rem !important; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* border-radius: 20px; */
+    /* border: 10px; */
+    /* border-color: red; */
+    /* border-width: 3px; */
+    background-color: #cbcd58;
+    text-align: center;
+    padding-top: 4px !important;
+    padding-bottom: 2px !important;
+}
